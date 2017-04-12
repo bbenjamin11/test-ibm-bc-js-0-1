@@ -7,9 +7,14 @@
 	},
 	"dependencies": {
 		"express": "4.13.x",
-		"cfenv": "1.0.x"
+		"cfenv": "1.0.x",
+		"ejs":"x",
+		"ibm-blockchain-js":"x"
 	},
-	"repository": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bbenjamin11/test-ibm-blockchain-js.git"
+	},
 	"engines": {
 		"node": "4.x"
 	} 
