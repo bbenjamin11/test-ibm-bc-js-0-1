@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: test-ibm-bc-js
-  host: test-ibm-bc-js
+  name: test-ibm-bc-js-0-1
+  host: test-ibm-bc-js-0-1
   disk_quota: 1024M
